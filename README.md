@@ -1,4 +1,11 @@
-### Hi there 👋
+# ABOUT ME 
+-----------------------------------
+## NAME : Nathaphat Lertsiriphongphan
+## NickName : Folk
+## ENDROLL : KMUTT
+## AGE : Always 18
+![CODEWARS](https://www.codewars.com/users/NTPLSRPP/badges/large)
+
 
 <!--
 **NTPLSRPP/NTPLSRPP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
