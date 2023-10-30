@@ -1,9 +1,10 @@
-# ABOUT ME 
------------------------------------
-## NAME : Nathaphat Lertsiriphongphan
-## NickName : Folk
-## ENDROLL : KMUTT
-## AGE : Always 18
+## ABOUT ME 
+---
+### NAME : Nathaphat Lertsiriphongphan
+### NickName : Folk
+### ENDROLL : KMUTT
+### AGE : Always 18
+---
 ![CODEWARS](https://www.codewars.com/users/NTPLSRPP/badges/large)
 
 
