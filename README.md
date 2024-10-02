@@ -3,7 +3,7 @@
 ### NAME : Nathaphat Lertsiriphongphan
 ### NickName : Folk
 ### ENDROLL : KMUTT
-### AGE : Always 18
+### AGE : 21
 ---
 ![CODEWARS](https://www.codewars.com/users/NTPLSRPP/badges/large)
 
