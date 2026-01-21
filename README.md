@@ -27,5 +27,5 @@ A passionate developer from Thailand, currently focusing on building impactful p
 ---
 
 ### 📫 Connect with me
-- 📧 Email: [Your Email Here]
-- 💼 LinkedIn: [Your LinkedIn Profile]
+- 📧 Email: nathaphat.n07@gmail.com
+- 💼 LinkedIn: [Nathaphat Lertsiriphongphan](https://www.linkedin.com/in/nathaphat-lertsiriphongphan-92982227a/)
